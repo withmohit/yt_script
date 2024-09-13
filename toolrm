@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo rm /bin/mkp3
+sudo rm /bin/mkp4
+sudo rm /bin/mkph
+sudo rm /bin/yt-dlp
+echo "Done.. Removed YT-DLP😌 successfully"
