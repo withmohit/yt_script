@@ -9,6 +9,10 @@ This project provides two Bash scripts: `tool` and `toolrm`. The `tool` script c
 - **`mkph <youtube_link>`**: Downloads video in high definition.
 - **`toolrm`**: Removes all generated scripts and commands, functioning as an uninstallation tool.
 
+- ## Requirements
+
+- **`wget`**: The script uses `wget` to keep `yt-dlp` updated.
+
 ## Installation
 
 1. Clone the repository or download the script files.
@@ -52,15 +56,3 @@ This project provides two Bash scripts: `tool` and `toolrm`. The `tool` script c
    ```bash
    ./toolrm
    ```
-
-## Requirements
-
-- **`wget`**: The script uses `wget` to keep `yt-dlp` updated.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-This README is clear, professional, and explains the usage and installation steps in an easy-to-follow manner.
